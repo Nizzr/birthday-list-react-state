@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.05579222.css",
-    "main.js": "/react-gh-pages/static/js/main.261ab50c.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.05579222.css.map": "/react-gh-pages/static/css/main.05579222.css.map",
-    "main.261ab50c.js.map": "/react-gh-pages/static/js/main.261ab50c.js.map"
+    "main.css": "/birthday-list-react-state/static/css/main.05579222.css",
+    "main.js": "/birthday-list-react-state/static/js/main.261ab50c.js",
+    "index.html": "/birthday-list-react-state/index.html",
+    "main.05579222.css.map": "/birthday-list-react-state/static/css/main.05579222.css.map",
+    "main.261ab50c.js.map": "/birthday-list-react-state/static/js/main.261ab50c.js.map"
   },
   "entrypoints": [
     "static/css/main.05579222.css",
