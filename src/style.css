@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+	background-color: #f28ab2;
+
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2rem;
+	padding: 2rem 3rem;
+}
+
+h2 {
+	font-size: 1.2rem;
+	letter-spacing: 2px;
+}
+
+h4 {
+	color: rgb(86, 88, 86);
+	font-size: 0.9rem;
+	letter-spacing: 1px;
+}
+.card {
+  margin: 5rem 0;
+	background-color: white;
+	width: 500px;
+	border-radius: 1rem;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.person {
+	padding: 1rem 3rem;
+	display: flex;
+}
+
+.info {
+	padding: 1rem;
+}
+img {
+	height: 75px;
+	width: 75px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+.btn-container {
+	display: flex;
+	justify-content: center;
+}
+button {
+  border-radius: .5rem;
+
+	font-weight: 600;
+	width: 75%;
+	padding: 0.5rem;
+	margin: 1rem 0;
+	color: white;
+	background-color: #f28ab2;
+	border: none;
+	font-size: 1.5rem;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #f3689d;
+}
